@@ -1,0 +1,6 @@
+{
+  "test_file": "D:\\workspace\\project\\NLPcase\\senti_continue_ernie\\data\\test.txt",
+  "batch_size": 1,
+  "max_seq_len": 512,
+  "int_checkpoint": "D:\\workspace\\project\\NLPcase\\senti_continue_ernie\\params"
+}
